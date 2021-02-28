@@ -6,11 +6,11 @@ import { List } from './List';
 const fakeUsers = [
   {
     id: '1',
-    name: 'Robin',
+    name: 'Grr',
   },
   {
     id: '2',
-    name: 'Dennis',
+    name: 'Pinochio',
   },
 ];
 
